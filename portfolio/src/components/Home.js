@@ -13,7 +13,7 @@ const Home = () => {
             I'm a full stack web developer, academic researcher, and advocate with an interest in developing new, community-driven approaches to applying technology to programs for the public good.
             <br></br>
             <br></br>
-            I build programs in Rails, JavaScript, React, and React Native with the help of HTML and CSS.
+            I build applications in Rails, JavaScript, React, and React Native with the help of HTML and CSS.
             <br></br>
             <br></br>
             I think the most challenging and exciting part of being a developer is finding simple and elegant solutions and thinking about creative ways to use existing technologies to solve new problems.
