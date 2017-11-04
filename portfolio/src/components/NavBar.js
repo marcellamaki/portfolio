@@ -7,13 +7,11 @@ class NavBar extends React.Component {
     return(
         <div className="nav">
           <p>
-            <Link to="/" className="navLink">Home</Link>
+            <a href="https:///github.com/marcellamaki" className="navLink">GitHub</a>
             •
-            <Link to="/blog" className="navLink">Blog</Link>
+            <Link to="/blog" className="navLink">Email</Link>
             •
-            <Link to="/portfolio" className="navLink">Technical Portfolio</Link>
-            •
-            <Link to="/about" className="navLink">About</Link>
+            <Link to="/portfolio" className="navLink">Resume</Link>
           </p>
         </div>
     )

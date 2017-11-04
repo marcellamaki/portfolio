@@ -1,7 +1,7 @@
 import React from 'react'
 import { withRouter, Link } from 'react-router-dom'
 
-const Home = () => {
+const Level = () => {
   return (
         <div>
 
@@ -25,4 +25,4 @@ const Home = () => {
       )
 }
 
-export default Home;
+export default Level;
