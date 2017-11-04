@@ -9,7 +9,7 @@ class NavBar extends React.Component {
           <p>
             <a href="https:///github.com/marcellamaki" className="navLink">GitHub</a>
             •
-            <Link to="/blog" className="navLink">Email</Link>
+            <a href="mailto:marcellamaki@gmail.com" className="navLink">Email</a>
             •
             <Link to="/portfolio" className="navLink">Resume</Link>
           </p>

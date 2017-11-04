@@ -9,8 +9,11 @@ const Home = () => {
           <div className="site-title">
             <h2>Marcella Maki</h2>
           </div>
+          <div className="large-image">
+            <img src={require('.../images/brooklyn_map.jpeg')} />
+          </div>
           <p>
-            I'm a full stack web developer, academic researcher, and advocate with an interest in developing new, community-driven approaches to applying technology to programs for the public good.
+            I'm a full stack web developer, academic researcher, and advocate with an interest in technology for the public good.
             <br></br>
             <br></br>
             I build applications in Rails, JavaScript, React, and React Native with the help of HTML and CSS.
