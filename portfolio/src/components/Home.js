@@ -19,8 +19,15 @@ const Home = () => {
             I think the most challenging and exciting part of being a developer is finding simple and elegant solutions and thinking about creative ways to use existing technologies to solve new problems.
             <br></br>
             <br></br>
-
+            I love to write about code, have a tech blog, and am a writer in Hacker Noon.
+            <br></br>
+            <br></br>
           </p>
+            <h4>Get in touch </h4>
+            <p>marcellamaki@gmail.com
+            <br></br>
+            github | medium | linkedin
+            </p>
         </div>
       </div>
       )

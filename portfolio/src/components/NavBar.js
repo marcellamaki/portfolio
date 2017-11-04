@@ -9,11 +9,11 @@ class NavBar extends React.Component {
           <p>
             <Link to="/" className="navLink">Home</Link>
             •
+            <Link to="/blog" className="navLink">Blog</Link>
+            •
+            <Link to="/portfolio" className="navLink">Technical Portfolio</Link>
+            •
             <Link to="/about" className="navLink">About</Link>
-            •
-            <Link to="/contact" className="navLink">Contact</Link>
-            •
-            <Link to="/portfolio" className="navLink">Portfolio</Link>
           </p>
         </div>
     )

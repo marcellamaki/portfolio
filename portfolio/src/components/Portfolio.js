@@ -33,7 +33,7 @@ const Portfolio = () => {
             <br></br>
             Collaborative Project
             <br></br>
-            Built with React, Ruby on Rails, and Semantic UI.
+            Built with Ruby.
             <br></br>
             Repositories: Front End | Back End
             </p>
