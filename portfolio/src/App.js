@@ -3,7 +3,7 @@ import './App.css';
 import NavBar from './components/NavBar.js';
 import { Route, Link } from 'react-router-dom';
 import Home from './components/Home.js';
-import Portfolio from './components/Portfolio.js';
+import BlogContainer from './containers/BlogContainer.js';
 
 
 
@@ -13,9 +13,9 @@ class App extends Component {
       <div className="container">
         <Route path='/'  render={() => <NavBar />}/>
         <Route exact path='/' render={() => <Home />} />
-        {/* <Route path='/about' render={() => <About />} /> */}
+        <Route path='/blog' render={() => <BlogContainer />} />
         {/* <Route path='/contact' render={() => <Contact />} /> */}
-        <Route path='/portfolio' render={() => <Portfolio />} />
+        {/* <Route path='/portfolio' render={() => <Portfolio />} /> */}
       </div>
     );
   }

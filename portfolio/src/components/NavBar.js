@@ -11,7 +11,9 @@ class NavBar extends React.Component {
             •
             <a href="mailto:marcellamaki@gmail.com" className="navLink">Email</a>
             •
-            <Link to="/portfolio" className="navLink">Resume</Link>
+            <Link to="/resume" className="navLink">Resume</Link>
+            •
+            <Link to="/blog" className="navLink">Blog</Link>
           </p>
         </div>
     )
