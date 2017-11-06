@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import { BrowserRouter as Router, Link} from 'react-router-dom';
+import createHistory from 'history/createBrowserHistory'
 
 ReactDOM.render(<Router><App /></Router>, document.getElementById('root'));
 registerServiceWorker();

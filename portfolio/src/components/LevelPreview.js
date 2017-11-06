@@ -16,7 +16,7 @@ const LevelPreview = () => {
             Built in React and Redux with a Rails back end and the Twilio API.
             <br></br>
             <br></br>
-            Read More...
+            <Link to="/portfolio/1" className="textLink">Read More...</Link>
             <br></br>
             <br></br>
           </p>

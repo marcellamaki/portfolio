@@ -16,7 +16,7 @@ const HangpersonPreview = () => {
             Built in Ruby.
             <br></br>
             <br></br>
-            Read More...
+            <Link to="/portfolio/3" className="textLink">Read More...</Link>
             <br></br>
             <br></br>
           </p>

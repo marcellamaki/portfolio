@@ -16,7 +16,7 @@ const BattleshipPreview = () => {
             Built with ES6 and a Rails back end.
             <br></br>
             <br></br>
-            Read More...
+            <Link to="/portfolio/2" className="textLink">Read More...</Link>
             <br></br>
             <br></br>
           </p>
