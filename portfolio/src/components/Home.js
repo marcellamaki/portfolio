@@ -2,6 +2,9 @@ import React from 'react'
 import { withRouter, Link } from 'react-router-dom'
 import LevelPreview from './LevelPreview.js'
 import BattleshipPreview from './BattleshipPreview.js'
+import ReactNative3Preview from '../components/ReactNative3Preview'
+import ReactNative2Preview from '../components/ReactNative2Preview'
+import ReactNative1Preview from '../components/ReactNative1Preview'
 
 const Home = () => {
   return (
@@ -23,6 +26,7 @@ const Home = () => {
             <br></br>
           </p>
         </div>
+
         <LevelPreview />
         <BattleshipPreview />
       </div>
