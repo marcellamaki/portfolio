@@ -1,6 +1,6 @@
 import React from 'react'
-import { Document } from 'react-pdf'
-import { myResume } from '../Resume.pdf'
+import { Document } from 'react-pdf/build/entry.webpack'
+import  myResume from '../components/Resume.pdf'
 
 const Resume = () => {
   return (
