@@ -1,6 +1,7 @@
 import React from 'react'
 import { withRouter, Link } from 'react-router-dom'
-import Level from './Level.js'
+import LevelPreview from './LevelPreview.js'
+import BattleshipPreview from './BattleshipPreview.js'
 
 const Home = () => {
   return (
@@ -22,7 +23,8 @@ const Home = () => {
             <br></br>
           </p>
         </div>
-        <Level />
+        <LevelPreview />
+        <BattleshipPreview />
       </div>
       )
 }

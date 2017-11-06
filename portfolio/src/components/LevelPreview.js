@@ -1,7 +1,7 @@
 import React from 'react'
 import { withRouter, Link } from 'react-router-dom'
 
-const Level = () => {
+const LevelPreview = () => {
   return (
         <div>
 
@@ -13,7 +13,7 @@ const Level = () => {
             A mental health care reminder app to help people remember to do the things that keep them feeling good.
             <br></br>
             <br></br>
-            Built in React and Redux with a Rails backend and the Twilio API.
+            Built in React and Redux with a Rails back end and the Twilio API.
             <br></br>
             <br></br>
             Read More...
@@ -25,4 +25,4 @@ const Level = () => {
       )
 }
 
-export default Level;
+export default LevelPreview;
