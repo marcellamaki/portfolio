@@ -5,18 +5,18 @@ const Level = () => {
   return (
         <div>
 
-        <div className="container">
-          <div className="site-title">
-            <h2>Marcella Maki</h2>
+        <div className="project-description">
+          <div className="project-title">
+            <h3>Level</h3>
           </div>
           <p>
-            I'm a full stack web developer, academic researcher, and advocate with an interest in developing new, community-driven approaches to applying technology to programs for the public good.
+            A mental health care reminder app to help people remember to do the things that keep them feeling good.
             <br></br>
             <br></br>
-            I build applications in Rails, JavaScript, React, and React Native with the help of HTML and CSS.
+            Built in React and Redux with a Rails backend and the Twilio API.
             <br></br>
             <br></br>
-            I think the most challenging and exciting part of being a developer is finding simple, elegant solutions and thinking about creative ways to use existing technologies to solve new problems.
+            Read More...
             <br></br>
             <br></br>
           </p>

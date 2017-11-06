@@ -1,5 +1,6 @@
 import React from 'react'
 import { withRouter, Link } from 'react-router-dom'
+import Level from './Level.js'
 
 const Home = () => {
   return (
@@ -8,9 +9,6 @@ const Home = () => {
         <div className="container">
           <div className="site-title">
             <h2>Marcella Maki</h2>
-          </div>
-          <div className="large-image">
-            <img src={require('.../images/brooklyn_map.jpeg')} />
           </div>
           <p>
             I'm a full stack web developer, academic researcher, and advocate with an interest in technology for the public good.
@@ -24,6 +22,7 @@ const Home = () => {
             <br></br>
           </p>
         </div>
+        <Level />
       </div>
       )
 }
