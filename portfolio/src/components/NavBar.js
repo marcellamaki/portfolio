@@ -11,7 +11,7 @@ class NavBar extends React.Component {
             •
             <a href="mailto:marcellamaki@gmail.com" className="navLink">Email</a>
             •
-            <Link to="/resume" className="navLink">Resume</Link>
+            <a href="https://docs.google.com/document/d/1zrmN-0DsMAAQlFr9TpfNRGlgb8InyUz41eouTXFZESE/edit?usp=sharing" className="navLink">Resume</a>
             •
             <a href="https://medium.com/@marcellamaki" className="navLink">Blog</a>
           </p>
