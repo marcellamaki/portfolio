@@ -9,7 +9,6 @@ const LevelPreview = () => {
           <div className="project-title">
             <h3>Level</h3>
           </div>
-          // <img src="../images/level.jpg" />
           <p>
             A mental health care reminder app to help people remember to do the things that keep them feeling good.
             <br></br>
